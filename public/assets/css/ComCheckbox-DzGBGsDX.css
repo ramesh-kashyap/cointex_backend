@@ -1,0 +1,12 @@
+[data-v-3db4245c] .van-checkbox__icon .van-icon {
+    border-radius: .06rem
+}
+
+[data-v-3db4245c] .van-checkbox__icon--checked .van-icon {
+    color: #dcfd52;
+    border-radius: .06rem
+}
+
+[data-v-3db4245c] .van-checkbox__label {
+    margin-left: .1rem
+}

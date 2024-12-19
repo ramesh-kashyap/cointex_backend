@@ -1,0 +1,48 @@
+.inp-con[data-v-0a0a182e] {
+    display: flex;
+    margin-bottom: .32rem
+}
+
+.inp-con .inp[data-v-0a0a182e] {
+    min-width: 0;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid transparent
+}
+
+.inp-con .inp[data-v-0a0a182e]:focus-within {
+    border-color: #ffd200;
+    border-color: #000
+}
+
+.inp-con .inp input[data-v-0a0a182e] {
+    min-width: 0;
+    flex: 1;
+    color: #000;
+    font-size: .28rem;
+    font-weight: 500
+}
+
+.inp-con .inp input[data-v-0a0a182e]::placeholder {
+    font-weight: 400;
+    color: #c6c6ca
+}
+
+.inp-con .inp .icon img[data-v-0a0a182e] {
+    vertical-align: middle;
+    height: .44rem
+}
+
+.inp-con .inp[data-v-0a0a182e] {
+    height: 1rem;
+    padding: .36rem .28rem;
+    border-radius: .32rem;
+    border: .02rem solid #7A7A78;
+    background: #fff
+}
+
+.inp-con .inp img[data-v-0a0a182e] {
+    height: .104rem
+}

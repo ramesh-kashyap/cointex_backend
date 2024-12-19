@@ -1,0 +1,33 @@
+.item[data-v-9d2ee7be] {
+    margin-bottom: .32rem
+}
+
+.item .cname[data-v-9d2ee7be] {
+    font-size: .28rem;
+    line-height: 1em;
+    color: #fff;
+    opacity: .8
+}
+
+.item .val[data-v-9d2ee7be] {
+    border-radius: .24rem;
+    background: #131118;
+    align-items: center;
+    margin-top: .2rem;
+    padding: .28rem
+}
+
+.item .val input[data-v-9d2ee7be] {
+    height: .4rem;
+    width: 100%;
+    background: none;
+    border: 0
+}
+
+.c-fff[data-v-9d2ee7be] {
+    color: #fff
+}
+
+.go[data-v-9d2ee7be] {
+    padding: .28rem 0
+}

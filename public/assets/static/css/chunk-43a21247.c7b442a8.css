@@ -1,0 +1,80 @@
+.about[data-v-1d560bae] {
+    margin-bottom: .4rem;
+    padding: 0 .32rem
+}
+
+.box[data-v-1d560bae] {
+    line-height: .44rem;
+    position: relative
+}
+
+.box .name[data-v-1d560bae] {
+    font-size: .32rem;
+    font-weight: 600;
+    text-align: center;
+    color: #213266;
+    line-height: .44rem;
+    margin-bottom: .2rem
+}
+
+.box p[data-v-1d560bae] {
+    margin-bottom: .16rem;
+    font-size: .26rem;
+    font-weight: 400;
+    line-height: .36rem
+}
+
+.box .n[data-v-1d560bae] {
+    font-size: .28rem;
+    font-weight: 500;
+    text-align: left;
+    color: #213266;
+    line-height: .4rem;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAcCAMAAAA3HE0QAAAAWlBMVEUAAAAdMWMfMGUfMWQhMWYhMWYdLmUcLmEfMWUeMmUgMWUhMWYgMWUhMWUhMmYhMmYhMWUgMmUhMWYhMWUgMWUgMWUfMWYhMWUgMWYgMWYhMWYfMGYeMWQgMWVAfspzAAAAHnRSTlMAFCwzoMsbDDshtIqr29PDu2vt41tTQ4N7c2NLJZPyuH/4AAAA30lEQVQoz4XTW5KDIBQE0EYEgmDURCcvZv/bnC4ySUSI9PepvgVc8B/ddb5tf93lepvu8/L4kUjjxg04CKxzGDLQJMDnQK4r7orA4pNAsKoQimBKZxJ8KtxRDd4kwBK8K2VP8EAaSfCq6AhabCIINGLmM0GDbZom6DjWHAkcsgg2xBnudO6VQB4btDBsOhFMKMQ8wUgwohgdgSdQZgdYgv5WHGEjwJVA2QIIEewdMzyPiYVAycJFWW0Q479cddAvSzAs+WOF9+EuBN3Oc9cXBnNl5epLC/lt7esfp/r1/gAE0hJMb7xMLAAAAABJRU5ErkJggg==) no-repeat 0;
+    padding-left: .3rem;
+    background-size: auto .28rem;
+    margin-bottom: .1rem
+}
+
+.box .img-con[data-v-1d560bae] img {
+    margin-top: .24rem;
+    margin-bottom: .6rem;
+    max-width: 100%
+}
+
+.box .doc[data-v-1d560bae] {
+    position: relative
+}
+
+.box .doc .summary[data-v-1d560bae] {
+    padding: 0 .3rem;
+    color: hsla(0, 0%, 100%, .6);
+    text-align: justify;
+    font-family: Inter;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: .4rem
+}
+
+.box .doc .summary[data-v-1d560bae] img {
+    margin-top: .24rem;
+    margin-bottom: .6rem;
+    max-width: 100%
+}
+
+.box .doc img[data-v-1d560bae] {
+    position: absolute;
+    width: .26rem
+}
+
+.box .doc img.quotes-left[data-v-1d560bae] {
+    left: 0;
+    top: 0
+}
+
+.box .doc img.quotes-right[data-v-1d560bae] {
+    right: 0;
+    bottom: 0;
+    transform: scaleX(-1)
+}

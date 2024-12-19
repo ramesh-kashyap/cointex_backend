@@ -1,0 +1,258 @@
+.list[data-v-e5183d41] {
+    padding-top: .32rem;
+    box-sizing: border-box
+}
+
+.list .item[data-v-e5183d41] {
+    margin-bottom: .32rem;
+    width: 100%;
+    height: 2.02rem;
+    display: flex;
+    border-radius: .24rem;
+    border: .02rem solid #7A7A78;
+    border-left: none
+}
+
+.list .item .left[data-v-e5183d41] {
+    flex: 0 0 auto;
+    width: 2rem;
+    height: 2.02rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: url(/assets/bi1-C7l_0CKo.png) no-repeat center center;
+    background-size: 100% 110%
+}
+
+.list .item .left h3[data-v-e5183d41] {
+    color: #181a20;
+    text-align: center;
+    font-size: .48rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1em
+}
+
+.list .item .left span[data-v-e5183d41] {
+    margin-top: .16rem;
+    color: #181a20;
+    font-size: .24rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em
+}
+
+.list .item .right[data-v-e5183d41] {
+    flex: 1;
+    padding: .32rem .28rem;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center
+}
+
+.list .item .right .text[data-v-e5183d41] {
+    height: 100%;
+    flex: 1;
+    display: flex;
+    flex-direction: column
+}
+
+.list .item .right .text .title[data-v-e5183d41] {
+    color: #000;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: .32rem
+}
+
+.list .item .right .text .time[data-v-e5183d41] {
+    color: #c2c2c2;
+    font-size: .22rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em;
+    margin-top: .2rem
+}
+
+.list .item .right .btn[data-v-e5183d41] {
+    margin-left: .32rem;
+    flex: 0 0 auto;
+    min-width: 1.36rem;
+    height: .64rem;
+    color: #dcfd52;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1em;
+    padding: 0 .1rem;
+    box-sizing: border-box;
+    background: #000;
+    border-radius: .28rem;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.list .item .right .btn.disable[data-v-e5183d41] {
+    background: #dcddd6;
+    color: #acaea1
+}
+
+.quantify-cards[data-v-abf6ffdd] {
+    height: 100%;
+    border-radius: .32rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 0rem .32rem .32rem
+}
+
+.quantify-cards .tabs[data-v-abf6ffdd] {
+    flex: 0 0 auto;
+    display: flex;
+    margin-bottom: .02rem;
+    border-radius: .44rem;
+    border: .02rem solid #7A7A78;
+    background: #fff;
+    padding: .04rem
+}
+
+.quantify-cards .tabs .tab[data-v-abf6ffdd] {
+    margin-right: .2rem;
+    flex: 1;
+    height: .72rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #1d2631;
+    text-align: center;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em
+}
+
+.quantify-cards .tabs .tab span[data-v-abf6ffdd] {
+    position: relative;
+    z-index: 2
+}
+
+.quantify-cards .tabs .tab[data-v-abf6ffdd]:last-child {
+    margin-right: 0
+}
+
+.quantify-cards .tabs .tab.on[data-v-abf6ffdd] {
+    background: #fff;
+    border-top-right-radius: .5rem;
+    border-top-left-radius: .5rem;
+    position: relative
+}
+
+.quantify-cards .tabs .tab.first[data-v-abf6ffdd],
+.quantify-cards .tabs .tab.last[data-v-abf6ffdd] {
+    border-radius: .44rem;
+    border: .02rem solid #7A7A78;
+    background: #dcfd52;
+    position: relative
+}
+
+.quantify-cards .cards-con[data-v-abf6ffdd] {
+    flex: 1;
+    width: 100%;
+    box-sizing: border-box;
+    background: #fff;
+    border-top-left-radius: .32rem;
+    border-top-right-radius: .32rem
+}
+
+.quantify-cards .cards-con.first[data-v-abf6ffdd] {
+    border-top-left-radius: 0
+}
+
+.quantify-cards .cards-con.last[data-v-abf6ffdd] {
+    border-top-right-radius: 0
+}
+
+.quantify-cards .cards-con .tr[data-v-abf6ffdd] {
+    padding: .16rem 0;
+    display: flex;
+    justify-content: space-between
+}
+
+.quantify-cards .cards-con .tr .td[data-v-abf6ffdd] {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: #181a20;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 500
+}
+
+.quantify-cards .cards-con .tr .td[data-v-abf6ffdd]:first-child {
+    justify-content: flex-start
+}
+
+.quantify-cards .cards-con .tr .td[data-v-abf6ffdd]:last-child {
+    justify-content: flex-end
+}
+
+.quantify-cards .cards-con .tr .td .img[data-v-abf6ffdd] {
+    width: .56rem;
+    height: .56rem;
+    object-fit: contain
+}
+
+.quantify-cards .cards-con .tr .td .coin[data-v-abf6ffdd] {
+    margin-left: .16rem;
+    display: flex;
+    flex-direction: column
+}
+
+.quantify-cards .cards-con .tr .td .coin .buyCoinName[data-v-abf6ffdd] {
+    color: #181a20;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1em
+}
+
+.quantify-cards .cards-con .tr .td .coin .sellCoinName[data-v-abf6ffdd] {
+    margin-top: .06rem;
+    color: #8b96ad;
+    font-size: .22rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em
+}
+
+.quantify-cards .cards-con .tr .td .btn[data-v-abf6ffdd] {
+    border-radius: .12rem;
+    background: #00bc81;
+    min-width: 1.4rem;
+    height: .56rem;
+    color: #fff;
+    text-align: center;
+    font-size: .26rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.quantify-cards .cards-con .tr .td .btn.drop[data-v-abf6ffdd] {
+    background: #eb3f31
+}
+
+.quantify-cards .cards-con .thead .td[data-v-abf6ffdd] {
+    color: #838e9f;
+    font-size: .24rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.2em
+}

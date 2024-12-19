@@ -1,0 +1,22 @@
+{
+    "name": "BitGrid",
+    "short_name": "BitGrid",
+    "description": "",
+    "display": "standalone",
+    "start_url": "/",
+    "theme_color": "#000",
+    "background_color": "#000",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "/logo1.ico",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/logo1.ico",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }

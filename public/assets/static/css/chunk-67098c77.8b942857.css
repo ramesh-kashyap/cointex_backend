@@ -1,0 +1,37 @@
+.tabs-con[data-v-83cbb658] .van-tabs--line {
+    bottom: 0
+}
+
+.tabs-con[data-v-83cbb658] .van-tabs__nav {
+    background-color: transparent
+}
+
+.tabs-con[data-v-83cbb658] .van-tab {
+    color: #dadada;
+    font-size: .28rem;
+    font-weight: 500;
+    line-height: .56rem;
+    letter-spacing: .00192rem;
+    padding: 0 .14rem
+}
+
+.tabs-con[data-v-83cbb658] .van-tab--active {
+    color: #55b2c2;
+    font-size: .36rem;
+    font-weight: 600
+}
+
+.tabs-con[data-v-83cbb658] .van-tabs__line {
+    width: .6rem;
+    height: .08rem;
+    border-radius: .04rem;
+    background: #55b2c2;
+    bottom: 0
+}
+
+.tabs-con[data-v-83cbb658] .van-tabs__nav--line.van-tabs__nav--complete {
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: .12rem
+}
+

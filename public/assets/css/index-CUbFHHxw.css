@@ -1,0 +1,118 @@
+.page[data-v-6b80342d] {
+    background: #fefefb !important
+}
+
+.info[data-v-6b80342d] {
+    border-radius: .32rem;
+    border: .02rem solid #7a7a78;
+    background: #fff;
+    margin: 1.12rem .32rem 0rem;
+    position: relative;
+    padding-top: 1.28rem
+}
+
+.info .avs[data-v-6b80342d] {
+    position: absolute;
+    top: -1.24rem;
+    left: 50%;
+    margin-left: -.8rem
+}
+
+.info .avatar[data-v-6b80342d] {
+    width: 1.6rem;
+    height: 1.6rem;
+    margin: .48rem auto;
+    position: relative
+}
+
+.info .avatar .uploader[data-v-6b80342d] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0
+}
+
+.info .avatar .img[data-v-6b80342d] {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    overflow: hidden
+}
+
+.info .avatar .update[data-v-6b80342d] {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: .56rem;
+    height: .56rem
+}
+
+.info .info-box .info-item[data-v-6b80342d] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .32rem 0
+}
+
+.info .info-box .info-item .name[data-v-6b80342d] {
+    color: #000;
+    font-family: PingFang SC;
+    font-size: .32rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: .32rem
+}
+
+.info .info-box .info-item .right[data-v-6b80342d] {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    color: #828284;
+    text-align: right;
+    font-size: .32rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em
+}
+
+.info .info-box .info-item .right .inp[data-v-6b80342d] {
+    width: 100%;
+    height: 100%;
+    text-align: right;
+    font-size: .32rem;
+    color: #848e9c;
+    font-weight: 400
+}
+
+.info .info-box .info-item .right .gender[data-v-6b80342d] {
+    display: flex;
+    align-items: center
+}
+
+.info .info-box .info-item .right .gender .gender-item[data-v-6b80342d] {
+    margin-left: .32rem;
+    text-align: right;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1em;
+    color: #848e9c
+}
+
+.info .info-box .info-item .right .gender .gender-item.on[data-v-6b80342d] {
+    color: #1d2631
+}
+
+.info .info-box .info-item .right .gender img[data-v-6b80342d] {
+    margin-left: .08rem;
+    width: .4rem;
+    height: .4rem;
+    object-fit: contain;
+    vertical-align: middle
+}
+
+.bot[data-v-6b80342d] {
+    padding: .4rem .32rem
+}

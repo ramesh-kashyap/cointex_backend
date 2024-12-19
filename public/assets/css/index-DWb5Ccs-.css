@@ -1,0 +1,110 @@
+.select-head[data-v-ad2799de] {
+    padding-top: .12rem;
+    background-color: #fffffa;
+    margin-top: -.3rem
+}
+
+.select-head .bott[data-v-ad2799de] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.select-head[data-v-ad2799de] .van-icon {
+    color: #6f7a8d
+}
+
+.select-head .name[data-v-ad2799de] {
+    color: #000;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em
+}
+
+.select-head .val[data-v-ad2799de] {
+    color: #c6c6ca;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em
+}
+
+.select-head .coin[data-v-ad2799de] {
+    width: 46%
+}
+
+.select-head .coin .s[data-v-ad2799de] {
+    margin-top: .28rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: .02rem solid #ebebeb;
+    padding-bottom: .2rem
+}
+
+.select-head .date[data-v-ad2799de] {
+    width: 46%
+}
+
+.select-head .date .s[data-v-ad2799de] {
+    margin-top: .28rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: .02rem solid #ebebeb;
+    padding-bottom: .2rem
+}
+
+.list[data-v-4232bd2c] {
+    padding-top: .12rem
+}
+
+.item[data-v-4232bd2c] {
+    margin-bottom: .28rem;
+    display: flex;
+    flex-wrap: wrap;
+    padding: .32rem .28rem;
+    box-sizing: border-box;
+    border-radius: .32rem;
+    border: .02rem solid #854af6;
+    background: #fff
+}
+
+.item .item-info[data-v-4232bd2c] {
+    margin-top: .24rem;
+    width: 50%;
+    display: flex;
+    flex-direction: column
+}
+
+.item .item-info[data-v-4232bd2c]:first-child,
+.item .item-info[data-v-4232bd2c]:nth-child(2) {
+    margin-top: 0
+}
+
+.item .item-info .name[data-v-4232bd2c] {
+    color: #828284;
+    font-size: .26rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em
+}
+
+.item .item-info .val[data-v-4232bd2c] {
+    margin-top: .12rem;
+    color: #000;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em;
+    min-height: 1em
+}
+
+.page[data-v-541b9065] {
+    background: #fffffa !important
+}
+
+.empty-con[data-v-541b9065] {
+    min-height: 10rem
+}

@@ -1,0 +1,156 @@
+.box-con[data-v-e4f9e96c] {
+    margin-top: .28rem;
+    border-radius: .24rem;
+    padding: .32rem;
+    box-sizing: border-box;
+    border-radius: .32rem;
+    border: .02rem solid #7a7a78;
+    background: #fff
+}
+
+.box-con .title[data-v-e4f9e96c] {
+    margin-bottom: .2rem;
+    color: #000;
+    font-size: .26rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em
+}
+
+.box-con .chainName[data-v-e4f9e96c] {
+    display: flex
+}
+
+.box-con .chainName div[data-v-e4f9e96c] {
+    text-align: center;
+    font-family: PingFang SC;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 500;
+    height: .64rem;
+    line-height: .64rem;
+    border-radius: .32rem;
+    padding: 0 .5rem;
+    border: 1px solid #000;
+    margin-right: .16rem
+}
+
+.box-con .chainName div[data-v-e4f9e96c]:last-child {
+    margin-right: 0
+}
+
+.box-con .chainName .act[data-v-e4f9e96c] {
+    background: #000;
+    color: #dcfd52;
+    display: inline-block;
+    padding: 0rem .5rem
+}
+
+.box-con .inp-con[data-v-e4f9e96c] {
+    display: flex;
+    align-items: center
+}
+
+.box-con .inp-con .img[data-v-e4f9e96c] {
+    margin-right: .12rem;
+    width: .56rem;
+    height: .56rem;
+    border-radius: 50%;
+    overflow: hidden
+}
+
+.box-con .inp-con .inp[data-v-e4f9e96c] {
+    min-width: 0;
+    flex: 1;
+    color: #000;
+    font-size: .32rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: .36rem;
+    display: flex;
+    align-items: center
+}
+
+.box-con .inp-con .copy-btn[data-v-e4f9e96c] {
+    flex: 0 0 auto;
+    margin-left: .4rem;
+    width: .52rem;
+    height: .52rem;
+    object-fit: contain
+}
+
+.box-con .qr-con[data-v-e4f9e96c] {
+    margin: .48rem auto .24rem;
+    width: 4rem;
+    height: 4rem;
+    background: #fff;
+    border-radius: .24rem;
+    padding: .2rem
+}
+
+.box-con .qr-con[data-v-e4f9e96c] img,
+.box-con .qr-con[data-v-e4f9e96c] canvas {
+    width: 3.6rem;
+    height: 3.6rem
+}
+
+.box-con .address[data-v-e4f9e96c] {
+    border-radius: .2rem;
+    background: #fafbf4;
+    padding: .28rem
+}
+
+.box-con .address .title[data-v-e4f9e96c] {
+    color: #828284;
+    font-family: PingFang SC;
+    font-size: .26rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: .26rem
+}
+
+.box-con .address .inp-con .inp[data-v-e4f9e96c] {
+    color: #000;
+    font-family: PingFang SC;
+    font-size: .32rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: .32rem
+}
+
+.tips-con[data-v-e4f9e96c] {
+    margin-top: .26rem;
+    padding-bottom: .4rem
+}
+
+.tips-con .title[data-v-e4f9e96c] {
+    margin-bottom: .16rem;
+    display: flex;
+    align-items: center;
+    color: #000;
+    font-size: .3rem;
+    font-style: normal;
+    font-weight: 500;
+    line-height: .32rem
+}
+
+.tips-con .title img[data-v-e4f9e96c] {
+    flex: 0 0 auto;
+    margin-right: .08rem;
+    width: .32rem;
+    height: .32rem;
+    object-fit: contain
+}
+
+.tips-con .desc[data-v-e4f9e96c] {
+    color: #828284;
+    font-size: .26rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal
+}
+
+[data-v-e4f9e96c] .van-icon {
+    color: #b4bdc8;
+    font-weight: 700
+}

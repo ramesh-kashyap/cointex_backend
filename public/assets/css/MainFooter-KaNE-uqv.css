@@ -1,0 +1,62 @@
+.main-footer[data-v-672149cf] {
+    max-width: 10.08rem;
+    width: calc(100% + .08rem);
+    margin-left: -.04rem;
+    margin-right: -.04rem;
+    margin-bottom: -.1rem;
+    z-index: 99;
+    bottom: 0;
+    padding: .24rem .4rem .34rem;
+    box-sizing: border-box;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    z-index: 1
+}
+
+.main-footer[data-v-672149cf]:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: .32rem .32rem 0 0;
+    background: #fffc;
+    box-shadow: 0 -.16rem .32rem #0000000a;
+    -webkit-backdrop-filter: blur(.24rem);
+    backdrop-filter: blur(.24rem)
+}
+
+.main-footer .item[data-v-672149cf] {
+    line-height: .48rem;
+    padding: 0 .1rem;
+    background: none;
+    font-size: .24rem;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    z-index: 1
+}
+
+.main-footer .item img[data-v-672149cf] {
+    height: .54rem;
+    display: block
+}
+
+.main-footer .item span[data-v-672149cf] {
+    margin-top: .12rem;
+    font-size: .22rem;
+    line-height: 1em;
+    color: #000;
+    font-family: PingFang SC;
+    font-style: normal
+}
+
+.main-footer .item a:active span[data-v-672149cf]:hover {
+    color: #000
+}

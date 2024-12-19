@@ -1,0 +1,63 @@
+.big_btn_box[data-v-0f22b5ec] {
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: .4rem;
+    display: flex;
+    justify-content: center
+}
+
+.big_btn_box .btn_box[data-v-0f22b5ec] {
+    width: 100%;
+    max-width: 8.5rem;
+    padding: 0 .32rem;
+    border-radius: .8rem
+}
+
+.big_btn_box .btn_box .btn[data-v-0f22b5ec] {
+    height: .96rem;
+    background: #ebebeb;
+    border-radius: .2rem;
+    color: #bdbdbd;
+    font-weight: 500;
+    font-size: .32rem;
+    width: 100%;
+    border: 0
+}
+
+.big_btn_box .btn_box .on[data-v-0f22b5ec] {
+    background: #55b2c2 ;
+    color: #000
+}
+
+.item[data-v-393dd566] {
+    margin-top: .32rem
+}
+
+.item .cname[data-v-393dd566] {
+    color: #fff;
+    font-size: .28rem;
+    margin-bottom: .24rem
+}
+
+.item .val[data-v-393dd566] {
+    border-radius: .24rem;
+    background: #131118;
+    align-items: center;
+    padding: .28rem
+}
+
+.item .val input[data-v-393dd566] {
+    height: .4rem;
+    width: 100%;
+    background: none;
+    border: 0
+}
+
+.err[data-v-393dd566] {
+    color: #c00
+}
+
+.color1[data-v-393dd566] {
+    color: #fff
+}

@@ -1,0 +1,17 @@
+.tab-list[data-v-220ee269] {
+    min-height: 1.06667rem;
+    height: 100%
+}
+
+.tab-list .tab[data-v-220ee269] {
+    height: 100%;
+    min-height: .85333rem;
+    white-space: pre-wrap;
+    line-height: 0.2;
+    padding: .12rem;
+    text-align: center
+}
+
+.team-count[data-v-220ee269] {
+    padding: 0 .24rem
+}

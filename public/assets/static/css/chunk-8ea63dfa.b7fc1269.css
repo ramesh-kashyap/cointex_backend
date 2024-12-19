@@ -1,0 +1,89 @@
+.itemBox[data-v-1c002adc] {
+    background: url(../../assets/static/img/bg_level.68c10a35.png) no-repeat;
+    background-size: 100% 100%
+}
+
+.bann[data-v-1c002adc] {
+    position: relative;
+    padding: .4rem;
+    text-align: center
+}
+
+.bann img[data-v-1c002adc] {
+    height: 2.66172rem
+}
+
+.bann .v img[data-v-1c002adc] {
+    height: 1rem
+}
+
+.bann .swiper-next[data-v-1c002adc],
+.bann .swiper-prev[data-v-1c002adc] {
+    position: absolute;
+    top: 50%;
+    margin-top: -.3rem;
+    z-index: 2;
+    left: .4rem
+}
+
+.bann .swiper-next i[data-v-1c002adc],
+.bann .swiper-prev i[data-v-1c002adc] {
+    font-size: .6rem
+}
+
+.bann .swiper-next[data-v-1c002adc] {
+    right: .4rem;
+    left: auto
+}
+
+.bann .pagination[data-v-1c002adc] .swiper-pagination-bullet {
+    background: #fff
+}
+
+ul[data-v-1c002adc] {
+    padding: 0 .4rem .2rem .4rem
+}
+
+ul li[data-v-1c002adc] {
+    display: flex;
+    color: #000;
+    line-height: .32rem;
+    margin-bottom: .16rem
+}
+
+ul li .flex1[data-v-1c002adc] {
+    opacity: .7
+}
+
+ul li .s[data-v-1c002adc] {
+    text-align: right
+}
+
+ul li .s div[data-v-1c002adc] {
+    margin-bottom: .2rem
+}
+
+ul li .s img[data-v-1c002adc] {
+    height: .32rem;
+    vertical-align: middle
+}
+
+.tipsBox[data-v-1c002adc] {
+    color: #666;
+    margin-top: .32rem
+}
+
+.tipsBox .n[data-v-1c002adc] {
+    margin-bottom: .28rem;
+    font-size: .28rem
+}
+
+.tipsBox .n img[data-v-1c002adc] {
+    height: .32rem;
+    margin-right: .16rem;
+    vertical-align: middle
+}
+
+.tipsBox .p[data-v-1c002adc] {
+    line-height: .4rem
+}

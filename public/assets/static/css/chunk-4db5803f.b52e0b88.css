@@ -1,0 +1,123 @@
+[data-v-080b657c] .head .str {
+    color: #222 !important
+}
+
+[data-v-080b657c] .head .str img {
+    margin-right: .1rem;
+    vertical-align: middle;
+    height: .32rem !important
+}
+
+.logo[data-v-080b657c] {
+    position: relative;
+    margin-bottom: .4rem;
+    text-align: center
+}
+
+.logo span[data-v-080b657c] {
+    display: block;
+    margin: 0 auto;
+    height: 2rem
+}
+
+.logo span img[data-v-080b657c] {
+    height: 2rem
+}
+
+.tab[data-v-080b657c] {
+    margin-bottom: .4rem
+}
+
+.tab li[data-v-080b657c] {
+    border-bottom: .02rem solid #dadada;
+    text-align: center;
+    font-size: .32rem;
+    font-weight: 400;
+    color: #999;
+    line-height: .44rem;
+    padding: 0 0 .32rem 0
+}
+
+.tab li.on[data-v-080b657c] {
+    color: #222;
+    border-bottom: .02rem solid #213266
+}
+
+.area[data-v-080b657c] {
+    font-size: .3rem;
+    margin-right: .24rem;
+    color: var(--COcolor1)
+}
+
+.area img[data-v-080b657c] {
+    height: .2rem;
+    vertical-align: middle;
+    margin-left: .1rem
+}
+
+.it[data-v-080b657c] {
+    margin-bottom: .2rem
+}
+
+.it .db[data-v-080b657c] {
+    padding: .3rem .2rem
+}
+
+.it .db .ico img[data-v-080b657c] {
+    height: .4rem
+}
+
+.it .db .flexs[data-v-080b657c] {
+    padding: 0 0 0 .12rem;
+    position: relative;
+    z-index: 2
+}
+
+.it .db .flexs input[data-v-080b657c] {
+    height: .4rem;
+    width: 100%;
+    background: none;
+    border: 0
+}
+
+.it .db .yj[data-v-080b657c] {
+    height: .28rem
+}
+
+.it .db .str[data-v-080b657c],
+.it .db .str[data-v-080b657c] .van-count-down span {
+    color: #213266;
+    font-size: .3rem
+}
+
+.container[data-v-080b657c] {
+    padding: 0 .6rem
+}
+
+.go[data-v-080b657c] {
+    margin-top: .6rem;
+    padding-bottom: .3rem
+}
+
+.go .xy[data-v-080b657c] {
+    padding: .1rem 0
+}
+
+.go .xy .c1[data-v-080b657c] {
+    color: #213266
+}
+
+.go p[data-v-080b657c] {
+    margin-top: .2rem;
+    color: var(--COcolor1);
+    font-size: .26rem;
+    text-align: center
+}
+
+.go p span[data-v-080b657c] {
+    color: var(--COcolor2)
+}
+
+.doc[data-v-080b657c] {
+    color: var(--COcolor1)
+}

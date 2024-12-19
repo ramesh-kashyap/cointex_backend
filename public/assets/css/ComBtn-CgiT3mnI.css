@@ -1,0 +1,24 @@
+.com-btn[data-v-359df9df] {
+    font-size: .32rem;
+    width: 100%;
+    height: 1rem;
+    border: 0;
+    border-radius: .32rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.2em;
+    padding: .1rem .2rem;
+    font-weight: 500
+}
+
+.com-btn.on[data-v-359df9df] {
+    background: #85f;
+    color: #fff;
+}
+
+.van-button--disabled[data-v-359df9df] {
+    background: #dcddd6!important;
+    color: #acaea1!important;
+    opacity: unset
+}

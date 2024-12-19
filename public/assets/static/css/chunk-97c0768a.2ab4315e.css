@@ -1,0 +1,25 @@
+.cname[data-v-03acef9e] {
+    margin: .64rem 0 .48rem 0;
+    font-weight: 700;
+    font-size: .48rem
+}
+
+ul[data-v-03acef9e] {
+    padding: 0 .2rem;
+    margin-bottom: 1.4rem
+}
+
+ul li[data-v-03acef9e] {
+    border-bottom: .02rem solid #3e3e3e;
+    padding: .24rem 0;
+    font-size: .28rem;
+    line-height: .44rem
+}
+
+ul li[data-v-03acef9e]:last-child {
+    border: 0
+}
+
+ul li img[data-v-03acef9e] {
+    height: .48rem
+}

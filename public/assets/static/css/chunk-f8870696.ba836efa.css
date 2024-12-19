@@ -1,0 +1,144 @@
+.tabs-con[data-v-c079ad96] {
+    margin-top: .2rem
+}
+
+.quotes .name[data-v-c079ad96] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: .22rem
+}
+
+.quotes .name .flex1[data-v-c079ad96] {
+    color: #d5d8e1;
+    font-size: .36rem;
+    font-weight: 600
+}
+
+.quotes .name .view[data-v-c079ad96] {
+    color: #aafb78;
+    font-weight: 600;
+    letter-spacing: .0048rem
+}
+
+.quotes table[data-v-c079ad96] {
+    width: 100%;
+    margin: .2rem 0
+}
+
+.quotes table tr[data-v-c079ad96] {
+    padding: .22rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.quotes table td[data-v-c079ad96],
+.quotes table th[data-v-c079ad96] {
+    flex: 1;
+    justify-content: flex-end;
+    text-align: right
+}
+
+.quotes table td[data-v-c079ad96]:first-child,
+.quotes table th[data-v-c079ad96]:first-child {
+    text-align: left;
+    justify-content: flex-start
+}
+
+.quotes table td[data-v-c079ad96]:last-child,
+.quotes table th[data-v-c079ad96]:last-child {
+    text-align: center;
+    justify-content: center;
+    min-width: 1.66rem;
+    margin-left: .3rem;
+    flex: 0 0 auto
+}
+
+.quotes table th[data-v-c079ad96] {
+    font-size: .24rem;
+    font-weight: 400;
+    line-height: .3rem;
+    color: #909c96
+}
+
+.quotes table td[data-v-c079ad96] {
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-align: right;
+    font-size: .26rem;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: .0052rem
+}
+
+.quotes table td img[data-v-c079ad96] {
+    height: .8rem;
+    margin-right: .2rem;
+    vertical-align: middle;
+    border-radius: 50%
+}
+
+.quotes table td span[data-v-c079ad96] {
+    font-weight: 600
+}
+
+.quotes table td .buyCoinName[data-v-c079ad96] {
+    font-size: .3rem;
+    line-height: .46rem;
+    letter-spacing: .006rem;
+    text-align: left
+}
+
+.quotes table td .sellCoinName[data-v-c079ad96] {
+    font-size: .24rem;
+    line-height: .36rem;
+    letter-spacing: .0048rem;
+    text-align: left
+}
+
+.quotes table td var[data-v-c079ad96] {
+    background: rgba(23, 206, 146, .15);
+    border-radius: .4rem;
+    text-align: center;
+    line-height: .6rem;
+    display: inline-block;
+    padding: 0 .2rem;
+    font-weight: 700;
+    white-space: normal;
+    min-width: 1.66rem;
+    color: #17ce92;
+    font-size: .26rem
+}
+
+.quotes table td var.on[data-v-c079ad96] {
+    background: rgba(242, 89, 81, .15);
+    color: #f25951
+}
+
+.searchBox[data-v-c079ad96] {
+    margin: .24rem 0;
+    background: rgba(166, 255, 125, .1) url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAq4AAABgCAMAAADrXADZAAAAtFBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////oK74hAAAAO3RSTlMAOAYuDFZ/PltD4NAzevXqEPCEH9txy2ZRF9Z1al8pE0r7IhvlxpCfvcG5rqaJbkcmqphjorWUjE6ynLkDPzMAAAOaSURBVHja7NjrUtNAHIbxhRSrKdaEWEVplVJJGvGIB5T//d+XaU32kJGRj7wzz2/e3MEzO9l1QbFqZqXtrAfz9Two52XwLPHOy73nkdeRWeRF7HLQXrZ723bbez/4Mfi9c9Wt97X3wfv+V9Nt77ZzfXvd+zmoezf1Te/j4CTyaORpcNbNWwSfestlt8HLyLfeynucOEqdHp0Gv3bOuw0+B08i0+m0+wYH04Ox40SWeBN8GVx41UW1t+nmvfLeRgpvkjqcHMbcobunqi6tt/bSXuNc76z1v73OYnGtXuv5XL0k16hWb5RriLXPdTDONdTqncTGtQZJrWdRrt4yiGIN7so1DTaptXcehFi7JcGmuU6TWONcs+OsW4j137mGYKveJq51E3qNig21FqHUfayTUa73SraozaxdZIUDHroqN2sqBwjIcsszByiocmv4C4CGIrcrB2ioLedshYjKjEsWVDTWOEBDweEKHStrHSCisYUDRMxs6gARpfGKBRlmDlBBrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBSWuEAETPLHCCisYUDRKxs6wARRWmVA0TU1jhARGVctqCjtpy3LPxpx153EobBAAyDoNOCOhhHAUEQBqLzMJHN3v99WVi/05IFw78lffq1V/CmaVoWvnLPAac8AqW37n51yqKmtHLfA05ZBErr0AXrlMVKa72OPPcmcEohCDV6QndCi9xzz0SRDvOAGlyPLHtLtLHW6AXsMukuPdiCT/QKvq3Q+j36sn7AytqDN9TmrqRbbkS6oy6IMmMzqE/i2MzRhFwLl9KAJIPkYJbM0Du6YTypmtcUasIj95GZMwFYgOFiSKaMn6nnXeRUKmb+x5+EjRbkCs7PtaMoVsy1uNcl2YCiWo00I3qVtSKZK8BcwX5lc4VgRaxtGWtxrkxkjUmfiS0e6+RkrlSrwWs1A7EKnky26vFYzRa1NmWvNYwVzanYAC0Qq9UsiHXqg7rPWjXLnDzWU73+AfLWN+WTH+qNAAAAAElFTkSuQmCC) no-repeat;
+    background-size: 100% 100%
+}
+
+.searchBox .flex[data-v-c079ad96] {
+    align-items: center;
+    padding: .1rem .26rem
+}
+
+.searchBox .flex img[data-v-c079ad96] {
+    height: .4rem
+}
+
+.searchBox .flex input[data-v-c079ad96] {
+    width: 100%;
+    height: .6rem;
+    background: none;
+    margin-left: .24rem;
+    font-size: .28rem;
+    color: #fff;
+    border: 0
+}

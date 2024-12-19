@@ -1,0 +1,16 @@
+.com-image[data-v-5f911827] {
+    position: relative
+}
+
+.com-image .image[data-v-5f911827] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%
+}
+
+[data-v-5f911827] .van-image__error img,[data-v-5f911827] .van-image__loading img {
+    width: 100%;
+    object-fit: contain
+}

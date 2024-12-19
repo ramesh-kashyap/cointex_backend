@@ -1,0 +1,149 @@
+.tab_box[data-v-778d849e] {
+    width: 100%
+}
+
+.tabs_title[data-v-778d849e] {
+    font-size: .32rem;
+    font-weight: 500;
+    text-align: center;
+    color: var(--COcolor6)
+}
+
+.tabs_title_active[data-v-778d849e] {
+    color: var(--COcolor2)
+}
+
+[data-v-778d849e] .van-tabs__line {
+    background-color: var(--CObackgroundLinear2)
+}
+
+[data-v-778d849e] .van-tabs__nav {
+    background-color: var(--CObackgroundLinear3)
+}
+
+.tab_list[data-v-25f8b414] {
+    height: .8rem;
+    overflow: hidden;
+    background-color: #d8d8d8;
+    border-radius: .16rem;
+    margin: .32rem .32rem 0;
+    font-size: .28rem;
+    display: flex;
+    align-items: center;
+    color: #fff;
+    text-align: center
+}
+
+.tab_list .tab_item[data-v-25f8b414] {
+    flex: 1;
+    position: relative;
+    height: .8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.tab_list .tab_item[data-v-25f8b414]:nth-of-type(n+2):after {
+    content: "";
+    display: block;
+    width: .2rem;
+    height: 1.2rem;
+    background: #fff;
+    position: absolute;
+    left: 0;
+    top: -.2rem;
+    transform: translate(-50%) rotate(15deg);
+    z-index: 10
+}
+
+.tab_list .active[data-v-25f8b414] {
+    background: #55b2c2 
+}
+
+.container[data-v-0c0d492c] {
+    padding: 0 .4rem
+}
+
+.item[data-v-0c0d492c] {
+    padding-bottom: .1rem
+}
+
+ul.list li[data-v-0c0d492c] {
+    padding: .34rem .1rem;
+    font-size: .28rem;
+    line-height: 1.3em;
+    color: hsla(0, 0%, 100%, .8);
+    position: relative
+}
+
+ul.list li .s img[data-v-0c0d492c] {
+    height: .28rem
+}
+
+ul.list li[data-v-0c0d492c]:after {
+    content: "";
+    display: block;
+    width: 100%;
+    border-bottom: var(--COborder2);
+    position: absolute;
+    bottom: 0;
+    left: 0
+}
+
+textarea[data-v-0c0d492c] {
+    height: 3rem;
+    border: 0;
+    background: none;
+    color: #222;
+    font-size: .3rem;
+    line-height: .42rem;
+    padding: .32rem
+}
+
+textarea[data-v-0c0d492c]::placeholder {
+    color: #999
+}
+
+.go[data-v-0c0d492c] {
+    margin-top: 1rem
+}
+
+.db[data-v-0c0d492c] {
+    list-style-type: disc !important
+}
+
+.tab[data-v-0c0d492c] {
+    margin: 0 0 .32rem 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: .16rem;
+    background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAq4AAABgCAMAAADrXADZAAAAtFBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////oK74hAAAAO3RSTlMAOAYuDFZ/PltD4NAzevXqEPCEH9txy2ZRF9Z1al8pE0r7IhvlxpCfvcG5rqaJbkcmqphjorWUjE6ynLkDPzMAAAOaSURBVHja7NjrUtNAHIbxhRSrKdaEWEVplVJJGvGIB5T//d+XaU32kJGRj7wzz2/e3MEzO9l1QbFqZqXtrAfz9Two52XwLPHOy73nkdeRWeRF7HLQXrZ723bbez/4Mfi9c9Wt97X3wfv+V9Nt77ZzfXvd+zmoezf1Te/j4CTyaORpcNbNWwSfestlt8HLyLfeynucOEqdHp0Gv3bOuw0+B08i0+m0+wYH04Ox40SWeBN8GVx41UW1t+nmvfLeRgpvkjqcHMbcobunqi6tt/bSXuNc76z1v73OYnGtXuv5XL0k16hWb5RriLXPdTDONdTqncTGtQZJrWdRrt4yiGIN7so1DTaptXcehFi7JcGmuU6TWONcs+OsW4j137mGYKveJq51E3qNig21FqHUfayTUa73SraozaxdZIUDHroqN2sqBwjIcsszByiocmv4C4CGIrcrB2ioLedshYjKjEsWVDTWOEBDweEKHStrHSCisYUDRMxs6gARpfGKBRlmDlBBrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBCrhBSWuEAETPLHCCisYUDRKxs6wARRWmVA0TU1jhARGVctqCjtpy3LPxpx153EobBAAyDoNOCOhhHAUEQBqLzMJHN3v99WVi/05IFw78lffq1V/CmaVoWvnLPAac8AqW37n51yqKmtHLfA05ZBErr0AXrlMVKa72OPPcmcEohCDV6QndCi9xzz0SRDvOAGlyPLHtLtLHW6AXsMukuPdiCT/QKvq3Q+j36sn7AytqDN9TmrqRbbkS6oy6IMmMzqE/i2MzRhFwLl9KAJIPkYJbM0Du6YTypmtcUasIj95GZMwFYgOFiSKaMn6nnXeRUKmb+x5+EjRbkCs7PtaMoVsy1uNcl2YCiWo00I3qVtSKZK8BcwX5lc4VgRaxtGWtxrkxkjUmfiS0e6+RkrlSrwWs1A7EKnky26vFYzRa1NmWvNYwVzanYAC0Qq9UsiHXqg7rPWjXLnDzWU73+AfLWN+WTH+qNAAAAAElFTkSuQmCC);
+    background-size: 100% 100%
+}
+
+.tab li[data-v-0c0d492c] {
+    padding: .16rem .24rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+    gap: .2rem;
+    color: #7f8192
+}
+
+.tab li.on[data-v-0c0d492c] {
+    border-radius: .12rem;
+    background: #a6ff7d;
+    color: #000
+}
+
+.tab li[data-v-0c0d492c] .van-icon {
+    font-size: .32rem;
+    font-weight: 700;
+    color: #bdbdbd
+}
+
+[data-v-0c0d492c] .tabs-con {
+    padding: 0 0 .2rem
+}

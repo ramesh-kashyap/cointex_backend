@@ -1,0 +1,20 @@
+.item[data-v-1cb3b20f] {
+    margin-top: .2rem;
+    padding-bottom: 1rem
+}
+
+h2[data-v-1cb3b20f] {
+    font-size: .48rem;
+    font-weight: 600;
+    color: var(--COcolor1);
+    margin: .32rem 0;
+    line-height: .58rem
+}
+
+[data-v-1cb3b20f] .p {
+    line-height: .44rem
+}
+
+[data-v-1cb3b20f] .p span {
+    font-size: .3rem !important
+}

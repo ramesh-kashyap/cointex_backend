@@ -1,0 +1,295 @@
+.popup_box[data-v-4c14e1cc] {
+    background: #131118 !important
+}
+
+.popup_box .scroll[data-v-4c14e1cc] {
+    max-height: 72vh;
+    overflow-y: scroll
+}
+
+.popup_box .scroll .ul[data-v-4c14e1cc] {
+    overflow: hidden;
+    color: #e8e8e8
+}
+
+.popup_box .scroll .ul .item[data-v-4c14e1cc] {
+    background-color: #131118;
+    border-bottom: .02rem solid #4c4b4b !important;
+    padding: .32rem 0;
+    text-align: center;
+    color: #fff
+}
+
+.popup_box .scroll .ul .active[data-v-4c14e1cc] {
+    color: #55b2c2  !important
+}
+
+.popup_box .esc[data-v-4c14e1cc] {
+    background: #131118;
+    border-top: .06rem solid #212121;
+    padding: .32rem 0;
+    text-align: center;
+    color: #fff
+}
+
+.revenue[data-v-ac2db8a0] {
+    padding-bottom: .4rem
+}
+
+.total-income[data-v-ac2db8a0] {
+    overflow: hidden
+}
+
+.total-income .title_box[data-v-ac2db8a0] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.total-income .title_box .title[data-v-ac2db8a0] {
+    font-size: .36rem;
+    color: #d5d8e1;
+    font-weight: 600;
+    line-height: .54rem;
+    margin-bottom: .12rem
+}
+
+.total-income .title_box .choose_day[data-v-ac2db8a0] {
+    border-radius: .04rem;
+    border: .01724rem solid #7f8192;
+    padding: .12rem .18rem;
+    font-size: .24rem;
+    display: flex;
+    align-items: center;
+    color: #7f8192
+}
+
+.total-income .title_box .choose_day .arrow_down[data-v-ac2db8a0] {
+    margin-left: .1rem
+}
+
+.total-income .info[data-v-ac2db8a0] {
+    position: relative;
+    height: 5.6rem
+}
+
+.total-income .info .img[data-v-ac2db8a0] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+
+.total-income .info .img img[data-v-ac2db8a0] {
+    height: 2.6rem
+}
+
+.total-income .info .img span[data-v-ac2db8a0] {
+    display: block;
+    margin-top: .3rem;
+    color: #111
+}
+
+.no_data[data-v-ac2db8a0] {
+    height: 5.6rem
+}
+
+.revenue[data-v-372e76f5] {
+    padding-bottom: .4rem
+}
+
+.total-income .title_box[data-v-372e76f5] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.total-income .title_box .title[data-v-372e76f5] {
+    font-size: .36rem;
+    color: #d5d8e1;
+    font-weight: 600;
+    line-height: .54rem;
+    margin-bottom: .12rem
+}
+
+.total-income .info[data-v-372e76f5] {
+    padding: .32rem 0
+}
+
+.no_data[data-v-372e76f5] {
+    height: 5.6rem
+}
+
+.com-1[data-v-6df100a6] {
+    border: .01724rem solid rgba(171, 246, 119, .5);
+    border-radius: .3rem;
+    background: linear-gradient(92deg, #55B2C2 1.36%, #fff 103.37%);
+    color: #000;
+    padding: .28rem
+}
+
+.com-1 .name[data-v-6df100a6] {
+    display: flex;
+    justify-content: space-between
+}
+
+.com-1 .name .n[data-v-6df100a6] {
+    font-size: .32rem;
+    /* font-weight: 700; */
+    line-height: .52rem;
+    letter-spacing: .015rem;
+    padding-left: 33%;
+}
+
+.com-1 .name img[data-v-6df100a6] {
+    height: .64rem;
+    vertical-align: middle;
+    margin-left: .16rem
+}
+
+.com-1 .amount[data-v-6df100a6] {
+    color: #000;
+    font-size: .64rem;
+    font-weight: 700;
+    line-height: .68rem;
+    letter-spacing: .02rem;
+    margin: -2px 0;
+    padding-left: 22%;
+}
+
+.com-1 .amount span[data-v-6df100a6] {
+    font-size: .28rem
+}
+
+.com-1 .col[data-v-6df100a6] {
+    justify-content: space-between
+}
+
+.com-1 .col .col-left[data-v-6df100a6],
+.com-1 .col[data-v-6df100a6] {
+    display: flex;
+    align-items: center
+}
+
+.com-1 .col .col-left span[data-v-6df100a6]:first-child {
+    color: #04dc00;
+    border-radius: 1.02rem;
+    background: hsla(0, 0%, 100%, .8)
+}
+
+.com-1 .col .col-left span:first-child img[data-v-6df100a6] {
+    width: .36rem;
+    height: .36rem;
+    object-fit: contain;
+    flex: 0 0 auto
+}
+
+.com-1 .col .col-left span[data-v-6df100a6]:nth-child(2) {
+    min-width: auto;
+    font-size: .28rem
+}
+
+.com-1 .col .col-right span[data-v-6df100a6] {
+    border-radius: 1.02rem;
+    border: .01724rem solid #000;
+    font-size: .24rem
+}
+
+.com-1 .col span[data-v-6df100a6] {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .08rem .12rem;
+    min-width: 1.4rem;
+    height: .52rem;
+    text-align: center;
+    font-size: .24rem;
+    font-weight: 500;
+    min-height: 1em
+}
+
+.com-1 .balance-con[data-v-6df100a6] {
+    margin-top: .32rem;
+    display: flex;
+    padding: .32rem 0;
+    border-radius: .2rem;
+    border: .02rem solid #fff;
+    background: linear-gradient(92deg, #55B2C2  1.36%, #fff 103.37%);
+    box-shadow: inset 0 .06rem .08rem 0 rgba(1, 52, 8, .2)
+}
+
+.com-1 .balance-con .balance-item[data-v-6df100a6] {
+    min-width: 0;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 .1rem;
+    text-align: center
+}
+
+.com-1 .balance-con .balance-item[data-v-6df100a6]:first-child {
+    position: relative
+}
+
+.com-1 .balance-con .balance-item[data-v-6df100a6]:first-child:after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    width: .02rem;
+    height: .4rem;
+    background-color: #a5a5a5;
+    opacity: .5
+}
+
+.com-1 .balance-con .balance-item .name[data-v-6df100a6] {
+    color: #000;
+    font-size: .24rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5em
+}
+
+.com-1 .balance-con .balance-item .val[data-v-6df100a6] {
+    margin-top: .08rem;
+    color: #000;
+    font-size: .32rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: .38rem;
+    min-height: .38rem
+}
+
+.tab[data-v-6df100a6] {
+    margin: .24rem 0 .56rem;
+    justify-content: space-between
+}
+
+.tab li[data-v-6df100a6] {
+    background: url(../../static/img/wallet_ico5.ae785eeb.png) no-repeat;
+    background-size: 100% 100%;
+    font-size: .28rem;
+    display: flex;
+    width: 45%;
+    padding: .2rem;
+    justify-content: center;
+    align-items: center
+}
+
+.tab li img[data-v-6df100a6] {
+    height: .52rem;
+    margin-right: .16rem
+}
+
+.record_icon[data-v-6df100a6] {
+    height: .48rem
+}

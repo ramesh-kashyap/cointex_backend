@@ -1,0 +1,4 @@
+const A = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAgBAMAAACSgyczAAAAIVBMVEUAAAD////////////////////////////////////////PIev5AAAACnRSTlMAYIAg37+vcG8QfJESugAAAFBJREFUKM9jwAeasYgxLTHAFNRa5YypcNWqJVgUrlqIReEqgcGlcKkgMhAGKUQHC4EKiRTErh2sdBmqRXAnEXb8IFG6ZALOxEA42TAUMxACAKR3YPjJDD/2AAAAAElFTkSuQmCC";
+export {
+    A as i
+};

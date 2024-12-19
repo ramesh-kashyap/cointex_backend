@@ -1,0 +1,224 @@
+.bann img[data-v-30aca98d] {
+    width: 100%
+}
+
+.title[data-v-30aca98d] {
+    border-radius: .2rem;
+    border: .00862rem solid #55b2c2;
+    margin: .28rem 0;
+    background: #17181c;
+    padding: .18rem .18rem;
+    align-items: center;
+    box-shadow: inset 0 -.2rem .32rem 0 rgba(163, 254, 166, .11)
+}
+
+.title .n[data-v-30aca98d],
+.title .s[data-v-30aca98d] {
+    font-size: .28rem;
+    font-weight: 600
+}
+
+.title .s[data-v-30aca98d] {
+    color: #55b2c2;
+    flex: 1;
+    padding-right: .24rem
+}
+
+.title .more[data-v-30aca98d] {
+    border-radius: .34rem;
+    background: rgba(166, 255, 125, .1);
+    color: #55b2c2;
+    padding: .2rem .32rem
+}
+
+.tabs[data-v-30aca98d] {
+    border-radius: .16rem;
+    border: .01724rem solid #333;
+    padding: .18rem;
+    color: #7f8192;
+    display: flex;
+    text-align: center
+}
+
+.tabs li[data-v-30aca98d] {
+    flex: 1;
+    padding: .12rem;
+    line-height: .36rem
+}
+
+.tabs li.activese[data-v-30aca98d] {
+    color: #000;
+    border-radius: .12rem;
+    background: #55b2c2;
+}
+
+.list[data-v-30aca98d] {
+    margin-top: .28rem
+}
+
+.list .item[data-v-30aca98d] {
+    border-radius: .2rem;
+    background: #252525;
+    box-shadow: 0 0 .25862rem 0 rgba(112, 113, 124, .12);
+    padding: .3rem .24rem;
+    margin-bottom: .32rem
+}
+
+.list .item .top[data-v-30aca98d] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between
+}
+
+.list .item .top .le[data-v-30aca98d] {
+    width: 70%
+}
+
+.list .item .top .le .n[data-v-30aca98d] {
+    font-size: .34rem;
+    font-weight: 600;
+    line-height: .52rem;
+    color: #d5d8e1
+}
+
+.list .item .top .le .s[data-v-30aca98d] {
+    color: #666;
+    font-size: .26rem;
+    font-weight: 400;
+    line-height: .4rem;
+    margin-top: .16rem
+}
+
+.list .item .top .ri .but[data-v-30aca98d] {
+    padding: .16rem .32rem;
+    border-radius: 1.8rem;
+    font-size: .24rem;
+    font-weight: 500
+}
+
+.list .item .top .ri .but1[data-v-30aca98d] {
+    color: #000;
+    background: #55b2c2 
+}
+
+.list .item .top .ri .but2[data-v-30aca98d] {
+    color: #55b2c2 ;
+    border: .02rem solid #55b2c2 
+}
+
+.list .item .top .ri .but3[data-v-30aca98d] {
+    color: #999;
+    background: #dbdbdb
+}
+
+.list .item .bot[data-v-30aca98d] {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: .2rem
+}
+
+.list .item .bot .le[data-v-30aca98d] {
+    flex: 1;
+    overflow: hidden
+}
+
+.list .item .bot .ri[data-v-30aca98d] {
+    margin-left: .34rem;
+    color: #929292;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1em
+}
+
+.list .item .bot .ri span[data-v-30aca98d] {
+    color: #55b2c2 
+}
+
+.dialog[data-v-30aca98d] {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, .5);
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.dialog .item[data-v-30aca98d] {
+    border-radius: .2069rem;
+    background: #fff;
+    padding: .48rem .4rem;
+    color: #111;
+    font-size: .32rem;
+    font-weight: 500;
+    width: 80%;
+    max-width: 8.5rem;
+    position: relative;
+    padding-top: 1.3rem
+}
+
+.dialog .item .to_img[data-v-30aca98d] {
+    position: absolute;
+    top: -21%;
+    left: 50%;
+    height: 2.4rem;
+    margin-left: -1.4rem
+}
+
+.dialog .item .t[data-v-30aca98d] {
+    text-align: right;
+    position: absolute;
+    top: .34rem;
+    right: .34rem;
+    z-index: 999
+}
+
+.dialog .item .t img[data-v-30aca98d] {
+    height: .32rem
+}
+
+.dialog .item .n[data-v-30aca98d] {
+    margin-top: .12rem;
+    text-align: center;
+    margin-top: .44rem
+}
+
+.dialog .item .s[data-v-30aca98d] {
+    margin-top: .24rem;
+    color: #55b2c2 ;
+    text-align: center;
+    font-size: .64rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: .64rem
+}
+
+.dialog .item .but[data-v-30aca98d] {
+    margin-top: .48rem;
+    border-radius: .24rem;
+    background: #55b2c2 ;
+    width: 100%;
+    color: #fff;
+    padding: .3rem;
+    text-align: center
+}
+
+.none[data-v-30aca98d] {
+    text-align: center;
+    margin-top: 1.6rem
+}
+
+.none img[data-v-30aca98d] {
+    height: 2.4rem
+}
+
+.none .n[data-v-30aca98d] {
+    color: #bdbdbd;
+    font-size: .28rem;
+    font-style: normal;
+    font-weight: 400
+}

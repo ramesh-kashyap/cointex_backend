@@ -1,0 +1,75 @@
+.inp-con[data-v-c7332cfe] {
+    display: flex;
+    margin-bottom: .3rem
+}
+
+.inp-con .inp[data-v-c7332cfe] {
+    min-width: 0;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid transparent
+}
+
+.inp-con .inp[data-v-c7332cfe]:focus-within {
+    border-color: #ffd200;
+    border-color: #000
+}
+
+.inp-con .inp input[data-v-c7332cfe] {
+    min-width: 0;
+    flex: 1;
+    color: #000;
+    font-size: .28rem;
+    font-weight: 500
+}
+
+.inp-con .inp input[data-v-c7332cfe]::placeholder {
+    font-weight: 400;
+    color: #c6c6ca
+}
+
+.inp-con .inp .icon img[data-v-c7332cfe] {
+    vertical-align: middle;
+    height: .28rem
+}
+
+.inp-con .inp[data-v-c7332cfe] {
+    height: 1rem;
+    padding: .36rem .28rem;
+    border-radius: .32rem;
+    border: .02rem solid #854af6;
+    background: #fff
+}
+
+.inp-con .inp img[data-v-c7332cfe] {
+    height: .1rem
+}
+
+.inp-con .code-btn[data-v-c7332cfe] {
+    margin-left: .14rem;
+    height: 1.04rem;
+    font-size: .28rem;
+    font-weight: 500;
+    color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer
+}
+
+.inp-con[data-v-c7332cfe] .van-count-down {
+    color: #000
+}
+
+.inp-con .count-down[data-v-c7332cfe] {
+    margin-left: .14rem;
+    height: 1.04rem;
+    border-radius: .24rem;
+    font-size: .3rem;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}

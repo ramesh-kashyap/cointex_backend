@@ -1,0 +1,59 @@
+.page[data-v-e0faf047] {
+    background: #fefefa !important
+}
+
+.btn[data-v-e0faf047] {
+    border-radius: .24rem
+}
+
+.boxs .box[data-v-e0faf047] {
+    margin-bottom: .32rem
+}
+
+.boxs .inp-con[data-v-e0faf047] {
+    display: flex
+}
+
+.boxs .inp-con .inp[data-v-e0faf047] {
+    height: 1.04rem;
+    background: #f5f5f5;
+    border-radius: .16rem;
+    padding: .3rem;
+    min-width: 0;
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #27313c;
+    font-size: .3rem;
+    font-weight: 400
+}
+
+.boxs .inp-con .inp[data-v-e0faf047]::placeholder {
+    font-weight: 400;
+    color: #b4bdc8
+}
+
+.boxs .inp-con .inp input[data-v-e0faf047] {
+    min-width: 0;
+    flex: 1;
+    color: #000;
+    font-size: .28rem;
+    font-weight: 500
+}
+
+.boxs .inp-con .inp input[data-v-e0faf047]::placeholder {
+    font-weight: 400;
+    color: #c6c6ca
+}
+
+.boxs .title[data-v-e0faf047] {
+    margin-bottom: .2rem;
+    font-size: .28rem;
+    font-weight: 400;
+    color: #000
+}
+
+.bot[data-v-e0faf047] {
+    padding-top: .3rem
+}
